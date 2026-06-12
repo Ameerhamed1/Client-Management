@@ -20,4 +20,5 @@ A professional, high-performance desktop software solution built using **Python*
 
 ## 📸 Interface Preview
 *Below is a look at the desktop dashboard framework during operations:*
-*(Tip: You can upload your screenshot here later!)*
+![Application Screenshot](Client-Manager.png)
+
